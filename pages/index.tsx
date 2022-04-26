@@ -114,10 +114,10 @@ export default function Home() {
           <input
             type="search"
             name="query"
-            className="rounded py-2 px-4 text-left border-gray-300 border-solid border-2"
+            className="rounded py-2 px-3 text-left border-gray-300 border-solid border-2"
             placeholder="Please enter keywords"
           />
-          <button className="ml-2 text-white bg-blue-500 rounded py-2 px-6 border-solid border-2 border-blue-500 hover:opacity-75">
+          <button className="ml-2 text-white bg-blue-500 rounded py-2 px-3 border-solid border-2 border-blue-500 hover:opacity-75">
             Search
           </button>
         </form>
